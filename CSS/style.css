@@ -1,0 +1,28 @@
+.header {
+    font-family: 'Oswald', sans-serif;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 60px;
+    font-display: unset;
+    color: black;
+}
+
+.nav {
+    font-family: 'Oswald', sans-serif; ;
+    text-align: center;
+    background-color: gray;
+    margin: 60px;
+    padding: 50px;
+    border: 50px;
+}
+
+.ul {
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+
+}
+
+.para {
+    padding-left: 60px;
+    padding-right: 60px;
+}
